@@ -1,6 +1,7 @@
 ﻿using System;
-interface gg
+interface Iс
 {
+    int CompareTo(object obj);
 }
 
 // Интерфейс для сравнения студентов
