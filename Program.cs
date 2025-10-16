@@ -1,4 +1,7 @@
 ﻿using System;
+interface gg
+{
+}
 
 // Интерфейс для сравнения студентов
 interface IS
